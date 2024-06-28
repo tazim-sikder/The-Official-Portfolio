@@ -1,0 +1,1 @@
+export interface TemplateSlideHorizontalProps{children:React.ReactNode;number:number;}

@@ -1,0 +1,1 @@
+export interface SidebarStyleProps{issidebarvisible?:boolean;ismobile?:boolean;}export interface SidebarProps{linkedin:string;github:string;whatsapp?:string;instagram:string;}
